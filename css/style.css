@@ -212,12 +212,17 @@ li {
 	position: relative;
 	text-align: center;
 	padding-top: 75px;
-	
+	width: 56px;
+	margin-left: 49%;
 }
 .copyright p {
 	font-size: 14px;
 	color: #fff;
 	margin-bottom: 20px;
+}
+.copyright img {
+	display: block;
+	padding-left: 8px;
 }
 /*blog页面的样式*/ 
 .blog {
